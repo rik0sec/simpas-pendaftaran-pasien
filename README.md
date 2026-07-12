@@ -102,7 +102,7 @@ app/
 ├── Views/
 │   ├── auth/                 # Halaman login
 │   ├── dashboard/            # Halaman dashboard
-│   ├── dokter/                # Halaman data dokter (create, edit, index)
+│   ├── dokter/                # Halaman data dokter 
 │   ├── pasien/                # Halaman data pasien
 │   ├── pendaftaran/          # Halaman pendaftaran pasien
 │   ├── poli/                  # Halaman data poli
