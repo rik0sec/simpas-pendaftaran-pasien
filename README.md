@@ -2,7 +2,6 @@
 
 Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, dokter, poli, dan pendaftaran pasien di sebuah klinik/puskesmas.
 
-> Project ini dibuat untuk memenuhi tugas [isi: nama mata kuliah / sekolah / kampus].
 
 ## 📸 Screenshot
 
@@ -61,7 +60,7 @@ Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, d
    app.baseURL = 'http://localhost:8080/'
 
    database.default.hostname = localhost
-   database.default.database = simpas_db
+   database.default.database = db_pendaftaran_pasien
    database.default.username = root
    database.default.password =
    database.default.DBDriver = MySQLi
@@ -79,6 +78,16 @@ Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, d
    php spark serve
    ```
    Buka `http://localhost:8080` di browser.
+
+## 🔑 Akun Default (Login)
+
+Setelah import database, gunakan akun berikut untuk login pertama kali:
+
+| Email | Password |
+|---|---|
+| `admin@klinik.com` | `admin123` |
+
+> ⚠️ Disarankan untuk mengganti password setelah login pertama kali, terutama jika project ini digunakan lebih lanjut (bukan sekadar demo/tugas).
 
 ## 📁 Struktur Project (ringkas)
 
