@@ -43,8 +43,8 @@ Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, d
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/rik0sec/-simpas-pendaftaran-pasien.git
-   cd -simpas-pendaftaran-pasien
+   git clone https://github.com/rik0sec/simpas-pendaftaran-pasien.git
+   cd simpas-pendaftaran-pasien
    ```
 
 2. **Install dependency**
