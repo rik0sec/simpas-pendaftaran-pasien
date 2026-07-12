@@ -59,7 +59,7 @@ Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, d
    app.baseURL = 'http://localhost:8080/'
 
    database.default.hostname = localhost
-   database.default.database = simpas_db
+   database.default.database = db_pendaftaran_pasien
    database.default.username = root
    database.default.password =
    database.default.DBDriver = MySQLi
