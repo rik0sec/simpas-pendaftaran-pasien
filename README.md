@@ -2,6 +2,7 @@
 
 Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, dokter, poli, dan pendaftaran pasien di sebuah klinik/puskesmas.
 
+> Project ini dibuat untuk memenuhi tugas [Pemrograman Web / Universitas Muhammadiyah Kotabumi].
 
 ## 📸 Screenshot
 
@@ -13,6 +14,10 @@ Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, d
 | Data Pasien | Pendaftaran |
 |---|---|
 | ![Pasien](docs/screenshot-pasien.png) | ![Pendaftaran](docs/screenshot-pendaftaran.png) |
+
+| Profil |
+|---|
+| ![Profil](docs/screenshot-profil.png) |
 
 ## ✨ Fitur
 
