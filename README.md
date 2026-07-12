@@ -2,8 +2,6 @@
 
 Aplikasi web sederhana berbasis **CodeIgniter 4** untuk mengelola data pasien, dokter, poli, dan pendaftaran pasien di sebuah klinik/puskesmas.
 
-> Project ini dibuat untuk memenuhi tugas [isi: nama mata kuliah / sekolah / kampus].
-
 ## 📸 Screenshot
 
 <!-- Ganti dengan screenshot asli tampilan aplikasi kamu -->
